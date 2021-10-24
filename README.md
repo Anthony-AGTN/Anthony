@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niotna
+- 👋 Hi, I’m Anthony
 - 👀 I’m interested in IT in general but I would like to specialize in web development
 - 🌱 I’m currently learning web developpement
 - 💞️ I’m looking to collaborate on [in reflection phase]
